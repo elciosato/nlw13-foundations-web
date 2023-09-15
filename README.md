@@ -1,5 +1,5 @@
 # NLW AI Web Interface
-"An intuitive web page developed during the NLW AI event (Rocketseat), designed for submitting YouTube Shorts URLs to the backend and harnessing the power of AI processing to promptly extract and succinctly summarize the content."
+An intuitive web page developed during the NLW AI event (Rocketseat), designed for submitting YouTube Shorts URLs to the backend and harnessing the power of AI processing to promptly extract and succinctly summarize the content.
 
 ## Installation
 ```bash
