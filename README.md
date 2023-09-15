@@ -4,7 +4,7 @@ An intuitive web page developed during the NLW AI event (Rocketseat), designed f
 ## Installation
 ```bash
 # Clone the repository
-https://github.com/elciosato/nlw13-foundations-web.git
+git clone https://github.com/elciosato/nlw13-foundations-web.git
 
 # Install dependencies
 cd nlw13-foundations-web
